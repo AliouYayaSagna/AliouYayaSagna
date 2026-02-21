@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋, I am Aliou Yaya SAGNA, a young senegalese still studying, enthusiast about theorical science, computer science, electronic, robotic,...so on, in a nutshell about whatever touching science et technologie.
+-I am currently working to join an engineering school in computer science, but in the other side I am an autodidact, I learned python, javascript, htlm...and a bit about arduino and still reaching to improve those skills and future others.
+-I am looking to become an AI specialist, to be behind the mathematic and computationnal structure of the models.
+-I am open for anyone who whould help me by advice, experience feedback or whatever else.
+-My project: help for a thecnological transition in Africa thanks to AI
 
 <!--
 **AliouYayaSagna/AliouYayaSagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
