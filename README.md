@@ -1,4 +1,4 @@
- Hi there 👋, I am Aliou Yaya SAGNA, a young senegalese still studying, enthusiast about theorical science, computer science, electronic, robotic,...so on, in a nutshell about whatever touching science et technologie.
+ Hi there 👋, I am Aliou Yaya SAGNA, a young senegalese still studying, enthusiast about theorical science, computer science, electronic, robotic,...so on, in a nutshell about whatever touching science and technology.
 	
 _I am currently working to join an engineering school in computer science, but in the other side I am an autodidact, I learned python, javascript, htlm...and a bit about arduino and still reaching to improve those skills and future others.
 
