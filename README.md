@@ -1,4 +1,4 @@
- Hi there 👋, I am Aliou Yaya SAGNA, a young senegalese still studying, enthusiast about theorical science, computer science, electronic, robotic,...so on, in a nutshell about whatever touching science and technology.
+ Hi there 👋, I am Aliou Yaya SAGNA, a young senegalese still studying, enthusiast about theorical science, computer science, electronic, robotic,...so on, in a nutshell about whatever about science and technology.
 
 <!--
 **AliouYayaSagna/AliouYayaSagna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
