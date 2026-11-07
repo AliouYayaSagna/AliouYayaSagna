@@ -2,6 +2,8 @@
 
 I am Aliou Yaya SAGNA, a Senegalese engineering student at ENSEEIHT in Toulouse, France, specializing in HPC and Big Data.
 
+🌐 **[Explore my eportfolio](https://AliouYayaSagna.github.io/AliouYayaSagna/)**
+
 ## What I am working on
 
 - Engineering studies focused on High-Performance Computing and Big Data.
